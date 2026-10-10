@@ -23,7 +23,7 @@ A simple contact book application built using Python dictionaries and functions.
 1. Download the project
 2. Open command prompt or terminal
 3. Run the file:
-   contact_book.py
+   `contact_book.py`
 
 ## How To Use
 
